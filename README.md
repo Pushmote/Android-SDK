@@ -1,4 +1,4 @@
 Android-SDK
 ===========
 
-Android SDK
+Android SDK v2
