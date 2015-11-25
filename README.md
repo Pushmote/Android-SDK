@@ -5,5 +5,5 @@ Pushmote Android SDK
 
 Version
 =======
-2.0
+2.1
 
